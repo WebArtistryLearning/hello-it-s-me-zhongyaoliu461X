@@ -1,4 +1,4 @@
-a=input('你的名字是：')
+a=input()
 
 print('Hello, '+a+'!' )
 
